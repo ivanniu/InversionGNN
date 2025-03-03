@@ -1,6 +1,6 @@
 # InversionGNN: Enhancing Multi-Property Molecular Optimization for Drug Discovery 
 
-
+This code is built on top of the [DST](https://github.com/futianfan/DST).
 ##  1. Sythestic Task
 
 ### 1.1 Pareto Optimization Conditioned on Desired Weight
