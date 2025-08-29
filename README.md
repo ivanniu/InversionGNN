@@ -46,3 +46,12 @@ python src/train.py
 ```bash
 python src/denovo.py
 ```
+## Citation
+If you use our benchmark in your research, please cite our work:
+```
+@inproceedings{niuinversiongnn,
+  title={InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization},
+  author={Niu, Yifan and Gao, Ziqi and Xu, Tingyang and Liu, Yang and Bian, Yatao and Rong, Yu and Huang, Junzhou and Li, Jia},
+  booktitle={The Thirteenth International Conference on Learning Representations}
+}
+```
